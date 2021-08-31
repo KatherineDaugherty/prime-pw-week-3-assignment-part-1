@@ -33,12 +33,12 @@ console.log('First animal is', animalArray[0])
 console.log('Second animal is', animalArray[1]);
 
 // 3.b. TODO: Log the last animal in the array using it's array index
-console.log(animalArray.indexOf('dog'));
+console.log('Last animal is', animalArray[3]);
 
 // 3.c. (STRETCH) TODO: Log the last animal by using the array length,
 //      instead of the exact index number of the last item
-console.log((animalArray.length)-1);
-
+console.log('The last animal is', animalArray.length);
+//unsure at the moment. might come back
 
 // 4. Adding & Removing Array Items
 console.log('--- 4. Adding and removing array items ---');
